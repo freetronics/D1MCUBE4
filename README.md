@@ -1,9 +1,7 @@
 4x4x4 RGB LED Cube for the WeMos D1 Mini
 =========================================
 
-Copyright 2017 Freetronics Pty Ltd  
-Freetronics site:  www.freetronics.com.au  
-Freetronics email: info@freetronics.com.au  
+Copyright 2017 Freetronics Pty Ltd  www.freetronics.com.au  
 
 4x4x4 RGB LED cube that can be controlled by a [WeMos D1 Mini][1], a
 microcontroller board based on the ESP8266 module.
@@ -23,7 +21,8 @@ INSTALLATION
 The design is saved as an EAGLE project. EAGLE PCB design software is
 available from www.cadsoftusa.com free for non-commercial use. To use
 this project download it and place the directory containing these files
-into the "eagle" directory on your computer.
+into the "eagle" directory on your computer, then navigate to the
+project.
 
 
 DISTRIBUTION
